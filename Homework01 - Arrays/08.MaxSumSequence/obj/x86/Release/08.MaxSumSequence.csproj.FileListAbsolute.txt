@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework01\08.MaxSumSequence\bin\Release\08.MaxSumSequence.exe
+L:\StoychevS\VS_2010 Projects\Homework01\08.MaxSumSequence\bin\Release\08.MaxSumSequence.pdb
+L:\StoychevS\VS_2010 Projects\Homework01\08.MaxSumSequence\obj\x86\Release\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework01\08.MaxSumSequence\obj\x86\Release\08.MaxSumSequence.exe
+L:\StoychevS\VS_2010 Projects\Homework01\08.MaxSumSequence\obj\x86\Release\08.MaxSumSequence.pdb

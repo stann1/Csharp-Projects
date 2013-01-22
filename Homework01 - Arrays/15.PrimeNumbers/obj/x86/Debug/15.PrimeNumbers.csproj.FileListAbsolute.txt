@@ -1,0 +1,10 @@
+L:\StoychevS\VS_2010 Projects\Homework01\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+L:\StoychevS\VS_2010 Projects\Homework01\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+L:\StoychevS\VS_2010 Projects\Homework01\15.PrimeNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework01\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.exe
+L:\StoychevS\VS_2010 Projects\Homework01\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.pdb
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.pdb
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.csprojResolveAssemblyReference.cache

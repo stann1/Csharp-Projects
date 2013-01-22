@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework01\06.MaxSumArray\bin\Release\06.MaxSumArray.exe
+L:\StoychevS\VS_2010 Projects\Homework01\06.MaxSumArray\bin\Release\06.MaxSumArray.pdb
+L:\StoychevS\VS_2010 Projects\Homework01\06.MaxSumArray\obj\x86\Release\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework01\06.MaxSumArray\obj\x86\Release\06.MaxSumArray.exe
+L:\StoychevS\VS_2010 Projects\Homework01\06.MaxSumArray\obj\x86\Release\06.MaxSumArray.pdb

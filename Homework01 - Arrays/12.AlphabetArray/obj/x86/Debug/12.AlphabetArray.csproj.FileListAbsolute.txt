@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework01\12.AlphabetArray\bin\Debug\12.AlphabetArray.exe
+L:\StoychevS\VS_2010 Projects\Homework01\12.AlphabetArray\bin\Debug\12.AlphabetArray.pdb
+L:\StoychevS\VS_2010 Projects\Homework01\12.AlphabetArray\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework01\12.AlphabetArray\obj\x86\Debug\12.AlphabetArray.exe
+L:\StoychevS\VS_2010 Projects\Homework01\12.AlphabetArray\obj\x86\Debug\12.AlphabetArray.pdb

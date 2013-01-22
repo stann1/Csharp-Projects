@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework01\04.MaxSequence\bin\Debug\04.MaxSequence.exe
+L:\StoychevS\VS_2010 Projects\Homework01\04.MaxSequence\bin\Debug\04.MaxSequence.pdb
+L:\StoychevS\VS_2010 Projects\Homework01\04.MaxSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework01\04.MaxSequence\obj\x86\Debug\04.MaxSequence.exe
+L:\StoychevS\VS_2010 Projects\Homework01\04.MaxSequence\obj\x86\Debug\04.MaxSequence.pdb

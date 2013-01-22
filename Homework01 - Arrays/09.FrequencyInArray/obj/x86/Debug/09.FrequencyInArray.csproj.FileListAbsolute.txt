@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework01\09.FrequencyInArray\bin\Debug\09.FrequencyInArray.exe
+L:\StoychevS\VS_2010 Projects\Homework01\09.FrequencyInArray\bin\Debug\09.FrequencyInArray.pdb
+L:\StoychevS\VS_2010 Projects\Homework01\09.FrequencyInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework01\09.FrequencyInArray\obj\x86\Debug\09.FrequencyInArray.exe
+L:\StoychevS\VS_2010 Projects\Homework01\09.FrequencyInArray\obj\x86\Debug\09.FrequencyInArray.pdb

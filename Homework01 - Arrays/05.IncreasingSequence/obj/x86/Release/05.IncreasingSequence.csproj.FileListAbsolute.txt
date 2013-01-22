@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework01\05.IncreasingSequence\bin\Release\05.IncreasingSequence.exe
+L:\StoychevS\VS_2010 Projects\Homework01\05.IncreasingSequence\bin\Release\05.IncreasingSequence.pdb
+L:\StoychevS\VS_2010 Projects\Homework01\05.IncreasingSequence\obj\x86\Release\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework01\05.IncreasingSequence\obj\x86\Release\05.IncreasingSequence.exe
+L:\StoychevS\VS_2010 Projects\Homework01\05.IncreasingSequence\obj\x86\Release\05.IncreasingSequence.pdb

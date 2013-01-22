@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework01\03.CompareCharacters\bin\Debug\03.CompareCharacters.exe
+L:\StoychevS\VS_2010 Projects\Homework01\03.CompareCharacters\bin\Debug\03.CompareCharacters.pdb
+L:\StoychevS\VS_2010 Projects\Homework01\03.CompareCharacters\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework01\03.CompareCharacters\obj\x86\Debug\03.CompareCharacters.exe
+L:\StoychevS\VS_2010 Projects\Homework01\03.CompareCharacters\obj\x86\Debug\03.CompareCharacters.pdb
