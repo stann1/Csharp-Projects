@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework02\04.BinarySearch\bin\Debug\04.BinarySearch.exe
+L:\StoychevS\VS_2010 Projects\Homework02\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
+L:\StoychevS\VS_2010 Projects\Homework02\04.BinarySearch\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework02\04.BinarySearch\obj\x86\Debug\04.BinarySearch.exe
+L:\StoychevS\VS_2010 Projects\Homework02\04.BinarySearch\obj\x86\Debug\04.BinarySearch.pdb

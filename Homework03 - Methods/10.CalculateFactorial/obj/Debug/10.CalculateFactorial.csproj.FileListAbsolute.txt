@@ -1,0 +1,5 @@
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\10.CalculateFactorial\bin\Debug\10.CalculateFactorial.exe.config
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\10.CalculateFactorial\bin\Debug\10.CalculateFactorial.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\10.CalculateFactorial\bin\Debug\10.CalculateFactorial.pdb
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\10.CalculateFactorial\obj\Debug\10.CalculateFactorial.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\10.CalculateFactorial\obj\Debug\10.CalculateFactorial.pdb

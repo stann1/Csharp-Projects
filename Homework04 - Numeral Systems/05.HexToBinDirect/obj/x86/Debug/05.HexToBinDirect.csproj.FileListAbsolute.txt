@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\bin\Debug\05.HexToBinDirect.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\bin\Debug\05.HexToBinDirect.pdb
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\obj\x86\Debug\05.HexToBinDirect.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\obj\x86\Debug\05.HexToBinDirect.pdb

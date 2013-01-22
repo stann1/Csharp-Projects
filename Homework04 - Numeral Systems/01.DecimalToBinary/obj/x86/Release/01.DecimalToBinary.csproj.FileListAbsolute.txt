@@ -1,0 +1,12 @@
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.DecimalToBinary\bin\Release\01.DecimalToBinary.exe
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.DecimalToBinary\bin\Release\01.DecimalToBinary.pdb
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.DecimalToBinary\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.exe
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.pdb
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.pdb
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\bin\Release\01.DecimalToBinary.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\bin\Release\01.DecimalToBinary.pdb
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.pdb

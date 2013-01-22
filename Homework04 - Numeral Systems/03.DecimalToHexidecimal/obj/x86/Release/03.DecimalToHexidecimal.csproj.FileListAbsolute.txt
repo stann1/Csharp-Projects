@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\03.DecimalToHexidecimal\bin\Release\03.DecimalToHexidecimal.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\03.DecimalToHexidecimal\bin\Release\03.DecimalToHexidecimal.pdb
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\03.DecimalToHexidecimal\obj\x86\Release\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\03.DecimalToHexidecimal\obj\x86\Release\03.DecimalToHexidecimal.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\03.DecimalToHexidecimal\obj\x86\Release\03.DecimalToHexidecimal.pdb

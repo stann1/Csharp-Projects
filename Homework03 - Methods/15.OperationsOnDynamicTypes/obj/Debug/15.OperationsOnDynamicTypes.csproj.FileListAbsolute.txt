@@ -1,0 +1,5 @@
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\15.OperationsOnDynamicTypes\bin\Debug\15.OperationsOnDynamicTypes.exe.config
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\15.OperationsOnDynamicTypes\bin\Debug\15.OperationsOnDynamicTypes.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\15.OperationsOnDynamicTypes\bin\Debug\15.OperationsOnDynamicTypes.pdb
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\15.OperationsOnDynamicTypes\obj\Debug\15.OperationsOnDynamicTypes.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\15.OperationsOnDynamicTypes\obj\Debug\15.OperationsOnDynamicTypes.pdb

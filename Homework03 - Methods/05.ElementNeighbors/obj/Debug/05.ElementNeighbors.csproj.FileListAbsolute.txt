@@ -1,0 +1,6 @@
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\bin\Debug\05.ElementNeighbors.exe.config
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\bin\Debug\05.ElementNeighbors.exe
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\bin\Debug\05.ElementNeighbors.pdb
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\obj\Debug\05.ElementNeighbors.csprojResolveAssemblyReference.cache
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\obj\Debug\05.ElementNeighbors.exe
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\obj\Debug\05.ElementNeighbors.pdb

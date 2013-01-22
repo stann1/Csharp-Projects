@@ -1,0 +1,5 @@
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\11-12.AddPolynomials\bin\Debug\11-12.AddPolynomials.exe.config
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\11-12.AddPolynomials\bin\Debug\11-12.AddPolynomials.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\11-12.AddPolynomials\bin\Debug\11-12.AddPolynomials.pdb
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\11-12.AddPolynomials\obj\Debug\11-12.AddPolynomials.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\11-12.AddPolynomials\obj\Debug\11-12.AddPolynomials.pdb

@@ -1,0 +1,6 @@
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\02.BiggerInteger\bin\Debug\02.BiggerInteger.exe.config
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\02.BiggerInteger\bin\Debug\02.BiggerInteger.exe
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\02.BiggerInteger\bin\Debug\02.BiggerInteger.pdb
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\02.BiggerInteger\obj\Debug\02.BiggerInteger.exe
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\02.BiggerInteger\obj\Debug\02.BiggerInteger.pdb
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\02.BiggerInteger\obj\Debug\02.BiggerInteger.csprojResolveAssemblyReference.cache

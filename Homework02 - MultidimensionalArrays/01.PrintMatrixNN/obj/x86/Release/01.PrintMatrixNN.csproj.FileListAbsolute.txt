@@ -1,0 +1,10 @@
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\bin\Release\01.PrintMatrixNN.exe
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\bin\Release\01.PrintMatrixNN.pdb
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\obj\x86\Release\01.PrintMatrixNN.exe
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\obj\x86\Release\01.PrintMatrixNN.pdb
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\obj\x86\Release\01.PrintMatrixNN.exe
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\obj\x86\Release\01.PrintMatrixNN.pdb
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\bin\Release\01.PrintMatrixNN.exe
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\bin\Release\01.PrintMatrixNN.pdb
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\obj\x86\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\07.BaseConversion\bin\Release\07.BaseConversion.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\07.BaseConversion\bin\Release\07.BaseConversion.pdb
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\07.BaseConversion\obj\x86\Release\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\07.BaseConversion\obj\x86\Release\07.BaseConversion.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\07.BaseConversion\obj\x86\Release\07.BaseConversion.pdb

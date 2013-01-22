@@ -1,0 +1,6 @@
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\04.NumberCount\bin\Debug\04.NumberCount.exe.config
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\04.NumberCount\bin\Debug\04.NumberCount.exe
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\04.NumberCount\bin\Debug\04.NumberCount.pdb
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\04.NumberCount\obj\Debug\04.NumberCount.csprojResolveAssemblyReference.cache
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\04.NumberCount\obj\Debug\04.NumberCount.exe
+c:\users\stan\documents\visual studio 2012\Projects\Homework03\04.NumberCount\obj\Debug\04.NumberCount.pdb

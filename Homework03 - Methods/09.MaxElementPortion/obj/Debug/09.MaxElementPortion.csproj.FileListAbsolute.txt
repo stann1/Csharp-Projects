@@ -1,0 +1,5 @@
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\09.MaxElementPortion\bin\Debug\09.MaxElementPortion.exe.config
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\09.MaxElementPortion\bin\Debug\09.MaxElementPortion.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\09.MaxElementPortion\bin\Debug\09.MaxElementPortion.pdb
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\09.MaxElementPortion\obj\Debug\09.MaxElementPortion.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\09.MaxElementPortion\obj\Debug\09.MaxElementPortion.pdb

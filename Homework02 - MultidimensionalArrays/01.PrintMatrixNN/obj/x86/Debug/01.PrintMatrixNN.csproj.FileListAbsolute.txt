@@ -1,0 +1,12 @@
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\bin\Debug\01.PrintMatrixNN.exe
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\bin\Debug\01.PrintMatrixNN.pdb
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\obj\x86\Debug\01.PrintMatrixNN.exe
+C:\Documents and Settings\StoychevS\Local Settings\Application Data\Temporary Projects\01.PrintMatrixNN\obj\x86\Debug\01.PrintMatrixNN.pdb
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\bin\Debug\01.PrintMatrixNN.exe
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\bin\Debug\01.PrintMatrixNN.pdb
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\obj\x86\Debug\01.PrintMatrixNN.exe
+L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\obj\x86\Debug\01.PrintMatrixNN.pdb
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework02 - MultidimensionalArrays\01.PrintMatrixNN\obj\x86\Debug\01.PrintMatrixNN.exe
+C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework02 - MultidimensionalArrays\01.PrintMatrixNN\obj\x86\Debug\01.PrintMatrixNN.pdb

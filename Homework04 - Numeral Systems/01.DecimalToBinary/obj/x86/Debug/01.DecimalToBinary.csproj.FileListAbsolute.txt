@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.pdb
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Debug\01.DecimalToBinary.exe
+L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Debug\01.DecimalToBinary.pdb
