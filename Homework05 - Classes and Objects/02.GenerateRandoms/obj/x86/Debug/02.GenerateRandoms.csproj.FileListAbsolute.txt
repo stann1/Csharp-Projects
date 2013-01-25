@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\bin\Debug\02.GenerateRandoms.exe
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\bin\Debug\02.GenerateRandoms.pdb
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\obj\x86\Debug\02.GenerateRandoms.exe
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\obj\x86\Debug\02.GenerateRandoms.pdb

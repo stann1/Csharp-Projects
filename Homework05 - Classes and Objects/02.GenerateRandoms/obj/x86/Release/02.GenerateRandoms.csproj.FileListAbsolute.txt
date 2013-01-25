@@ -1,0 +1,7 @@
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\bin\Release\02.GenerateRandoms.exe
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\bin\Release\02.GenerateRandoms.pdb
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\obj\x86\Release\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\obj\x86\Release\02.GenerateRandoms.exe
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\02.GenerateRandoms\obj\x86\Release\02.GenerateRandoms.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\02.GenerateRandoms\obj\x86\Release\02.GenerateRandoms.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\02.GenerateRandoms\obj\x86\Release\02.GenerateRandoms.pdb

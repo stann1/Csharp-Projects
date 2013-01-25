@@ -1,0 +1,5 @@
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\01.CurrentYear\bin\Debug\01.CurrentYear.exe
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\01.CurrentYear\bin\Debug\01.CurrentYear.pdb
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\01.CurrentYear\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\01.CurrentYear\obj\x86\Debug\01.CurrentYear.exe
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\01.CurrentYear\obj\x86\Debug\01.CurrentYear.pdb

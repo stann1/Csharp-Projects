@@ -1,0 +1,10 @@
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\06.ValuesFromString\bin\Release\06.ValuesFromString.exe
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\06.ValuesFromString\bin\Release\06.ValuesFromString.pdb
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\06.ValuesFromString\obj\x86\Release\ResolveAssemblyReference.cache
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\06.ValuesFromString\obj\x86\Release\06.ValuesFromString.exe
+L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\06.ValuesFromString\obj\x86\Release\06.ValuesFromString.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\06.ValuesFromString\obj\x86\Release\06.ValuesFromString.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\06.ValuesFromString\obj\x86\Release\06.ValuesFromString.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\06.ValuesFromString\bin\Release\06.ValuesFromString.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\06.ValuesFromString\bin\Release\06.ValuesFromString.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\06.ValuesFromString\obj\x86\Release\06.ValuesFromString.csprojResolveAssemblyReference.cache

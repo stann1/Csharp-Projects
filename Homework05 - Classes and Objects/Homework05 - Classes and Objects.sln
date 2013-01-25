@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CurrentYear", "01.CurrentYear\01.CurrentYear.csproj", "{B03BA2A4-CAAD-431A-AB65-01495BA6539F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenerateRandoms", "02.GenerateRandoms\02.GenerateRandoms.csproj", "{57CBECF0-C99F-4D6C-B9FA-E7B2BCE5549A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DayOfWeek", "03.DayOfWeek\03.DayOfWeek.csproj", "{34C1E478-8941-4EC1-90AB-5A25B8A32E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TriangleArea", "04.TriangleArea\04.TriangleArea.csproj", "{80D9FD66-08CE-4778-83D8-7CB815AA7CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.WorkdaysBetweenDates", "05.WorkdaysBetweenDates\05.WorkdaysBetweenDates.csproj", "{6059063A-BC28-4FA8-8B7A-4D212C7F75A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ValuesFromString", "06.ValuesFromString\06.ValuesFromString.csproj", "{6439C9DA-6BC1-4483-A692-E90B9B00B5EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03BA2A4-CAAD-431A-AB65-01495BA6539F}.Debug|x86.ActiveCfg = Debug|x86
+		{B03BA2A4-CAAD-431A-AB65-01495BA6539F}.Debug|x86.Build.0 = Debug|x86
+		{B03BA2A4-CAAD-431A-AB65-01495BA6539F}.Release|x86.ActiveCfg = Release|x86
+		{B03BA2A4-CAAD-431A-AB65-01495BA6539F}.Release|x86.Build.0 = Release|x86
+		{57CBECF0-C99F-4D6C-B9FA-E7B2BCE5549A}.Debug|x86.ActiveCfg = Debug|x86
+		{57CBECF0-C99F-4D6C-B9FA-E7B2BCE5549A}.Debug|x86.Build.0 = Debug|x86
+		{57CBECF0-C99F-4D6C-B9FA-E7B2BCE5549A}.Release|x86.ActiveCfg = Release|x86
+		{57CBECF0-C99F-4D6C-B9FA-E7B2BCE5549A}.Release|x86.Build.0 = Release|x86
+		{34C1E478-8941-4EC1-90AB-5A25B8A32E2D}.Debug|x86.ActiveCfg = Debug|x86
+		{34C1E478-8941-4EC1-90AB-5A25B8A32E2D}.Debug|x86.Build.0 = Debug|x86
+		{34C1E478-8941-4EC1-90AB-5A25B8A32E2D}.Release|x86.ActiveCfg = Release|x86
+		{34C1E478-8941-4EC1-90AB-5A25B8A32E2D}.Release|x86.Build.0 = Release|x86
+		{80D9FD66-08CE-4778-83D8-7CB815AA7CBF}.Debug|x86.ActiveCfg = Debug|x86
+		{80D9FD66-08CE-4778-83D8-7CB815AA7CBF}.Debug|x86.Build.0 = Debug|x86
+		{80D9FD66-08CE-4778-83D8-7CB815AA7CBF}.Release|x86.ActiveCfg = Release|x86
+		{80D9FD66-08CE-4778-83D8-7CB815AA7CBF}.Release|x86.Build.0 = Release|x86
+		{6059063A-BC28-4FA8-8B7A-4D212C7F75A8}.Debug|x86.ActiveCfg = Debug|x86
+		{6059063A-BC28-4FA8-8B7A-4D212C7F75A8}.Debug|x86.Build.0 = Debug|x86
+		{6059063A-BC28-4FA8-8B7A-4D212C7F75A8}.Release|x86.ActiveCfg = Release|x86
+		{6059063A-BC28-4FA8-8B7A-4D212C7F75A8}.Release|x86.Build.0 = Release|x86
+		{6439C9DA-6BC1-4483-A692-E90B9B00B5EF}.Debug|x86.ActiveCfg = Debug|x86
+		{6439C9DA-6BC1-4483-A692-E90B9B00B5EF}.Debug|x86.Build.0 = Debug|x86
+		{6439C9DA-6BC1-4483-A692-E90B9B00B5EF}.Release|x86.ActiveCfg = Release|x86
+		{6439C9DA-6BC1-4483-A692-E90B9B00B5EF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -87,7 +87,7 @@ namespace _10.CalculateFactorial
         {
             int[] factorialArray = { 1 };
 
-            int n = 100;                     //Number to calculate factorial
+            int n = 200;                     //Number to calculate factorial
 
             for (int i = 1; i <= n; i++)
             {
