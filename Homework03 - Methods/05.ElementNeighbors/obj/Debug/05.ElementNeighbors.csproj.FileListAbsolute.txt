@@ -4,3 +4,6 @@ c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbo
 c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\obj\Debug\05.ElementNeighbors.csprojResolveAssemblyReference.cache
 c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\obj\Debug\05.ElementNeighbors.exe
 c:\users\stan\documents\visual studio 2012\Projects\Homework03\05.ElementNeighbors\obj\Debug\05.ElementNeighbors.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework03 - Methods\05.ElementNeighbors\bin\Debug\05.ElementNeighbors.exe.config
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework03 - Methods\05.ElementNeighbors\obj\Debug\05.ElementNeighbors.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework03 - Methods\05.ElementNeighbors\obj\Debug\05.ElementNeighbors.pdb

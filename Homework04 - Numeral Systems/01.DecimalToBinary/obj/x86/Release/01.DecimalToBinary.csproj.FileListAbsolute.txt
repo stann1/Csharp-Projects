@@ -10,3 +10,5 @@ L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\bi
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\ResolveAssemblyReference.cache
 C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.exe
 C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.pdb

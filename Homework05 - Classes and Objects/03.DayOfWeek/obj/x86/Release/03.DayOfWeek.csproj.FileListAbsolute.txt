@@ -5,3 +5,6 @@ L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\03.DayOfWeek\obj\
 L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\03.DayOfWeek\obj\x86\Release\03.DayOfWeek.pdb
 C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\03.DayOfWeek\obj\x86\Release\03.DayOfWeek.exe
 C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\03.DayOfWeek\obj\x86\Release\03.DayOfWeek.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\03.DayOfWeek\bin\Release\03.DayOfWeek.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\03.DayOfWeek\bin\Release\03.DayOfWeek.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\03.DayOfWeek\obj\x86\Release\03.DayOfWeek.csprojResolveAssemblyReference.cache

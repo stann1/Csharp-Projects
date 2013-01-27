@@ -13,6 +13,7 @@ namespace _03.NameLastDigit
             int num = 514;
             string numString = num.ToString();
 
+            Console.WriteLine("The last digit is:");
             GetLastDigit(numString);
         }
 

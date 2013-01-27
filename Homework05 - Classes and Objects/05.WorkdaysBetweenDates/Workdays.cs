@@ -70,11 +70,12 @@ namespace _05.WorkdaysBetweenDates
         static void Main(string[] args)
         {
             DateTime today = DateTime.Today;
-            DateTime future = new DateTime(2013, 6, 15);
+            DateTime future = new DateTime(2013, 6, 18);
 
             int workDays = GetDaysToFutureDate(today, future);
-            Console.WriteLine("Working days, for period ({0} - {1}):", today.Date, future.Date);
+            Console.WriteLine("Working days, for period ({0:dd.MM.yyyy} - {1:dd.MM.yyyy}):", today.Date, future.Date);
             Console.WriteLine(workDays);
+           
         }
 
         
