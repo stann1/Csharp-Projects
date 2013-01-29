@@ -3,3 +3,8 @@ L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\bin\Release\_07.Equal
 L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\obj\x86\Release\ResolveAssemblyReference.cache
 L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\obj\x86\Release\_07.EqualNeighbors.exe
 L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\obj\x86\Release\_07.EqualNeighbors.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\07.EqualNeighbors\obj\x86\Release\_07.EqualNeighbors.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\07.EqualNeighbors\obj\x86\Release\_07.EqualNeighbors.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\07.EqualNeighbors\bin\Release\_07.EqualNeighbors.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\07.EqualNeighbors\bin\Release\_07.EqualNeighbors.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\07.EqualNeighbors\obj\x86\Release\07.EqualNeighbors.csprojResolveAssemblyReference.cache

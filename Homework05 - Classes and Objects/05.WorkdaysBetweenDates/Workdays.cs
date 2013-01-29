@@ -44,17 +44,17 @@ namespace _05.WorkdaysBetweenDates
 
                 case DayOfWeek.Monday: startDay = 0;
                     break;
-                case DayOfWeek.Tuesday: startDay = 2;
+                case DayOfWeek.Tuesday: startDay = 1;
                     break;
-                case DayOfWeek.Wednesday: startDay = 3;
+                case DayOfWeek.Wednesday: startDay = 2;
                     break;
-                case DayOfWeek.Thursday: startDay = 4;
+                case DayOfWeek.Thursday: startDay = 3;
                     break;
-                case DayOfWeek.Friday: startDay = 5;
+                case DayOfWeek.Friday: startDay = 4;
                     break;
-                case DayOfWeek.Saturday: startDay = 6;
+                case DayOfWeek.Saturday: startDay = 5;
                     break;
-                case DayOfWeek.Sunday: startDay = 7;
+                case DayOfWeek.Sunday: startDay = 6;
                     break;
                 default:
                     break;
@@ -70,7 +70,7 @@ namespace _05.WorkdaysBetweenDates
         static void Main(string[] args)
         {
             DateTime today = DateTime.Today;
-            DateTime future = new DateTime(2013, 6, 18);
+            DateTime future = new DateTime(2013, 6, 15);
 
             int workDays = GetDaysToFutureDate(today, future);
             Console.WriteLine("Working days, for period ({0:dd.MM.yyyy} - {1:dd.MM.yyyy}):", today.Date, future.Date);

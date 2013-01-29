@@ -10,10 +10,10 @@ namespace _07.EqualNeighbors
         static int tempCount = 1;
         static bool[,] visited;
 
-        static void Main(string[] args)
+        static void Main(string[] args)                           
         {
             int[,] matrix = {
-                                {1, 3, 2, 2, 2, 4},
+                                {1, 3, 2, 2, 2, 4},                             //Use this matrix for testing
                                 {3, 3, 3, 2, 2, 4},
                                 {4, 3, 1, 2, 3, 3},
                                 {4, 3, 1, 3, 3, 1},

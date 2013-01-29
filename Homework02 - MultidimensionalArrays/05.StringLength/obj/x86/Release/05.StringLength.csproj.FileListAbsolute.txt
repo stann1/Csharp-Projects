@@ -3,3 +3,5 @@ L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\bin\Release\05.StringLe
 L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\obj\x86\Release\ResolveAssemblyReference.cache
 L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\obj\x86\Release\05.StringLength.exe
 L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\obj\x86\Release\05.StringLength.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\05.StringLength\obj\x86\Release\05.StringLength.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\05.StringLength\obj\x86\Release\05.StringLength.pdb

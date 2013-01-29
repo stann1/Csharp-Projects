@@ -8,3 +8,5 @@ L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\obj\x86\Release\01.Pri
 L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\bin\Release\01.PrintMatrixNN.exe
 L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\bin\Release\01.PrintMatrixNN.pdb
 L:\StoychevS\VS_2010 Projects\Homework02\01.PrintMatrixNN\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\01.PrintMatrixNN\obj\x86\Release\01.PrintMatrixNN.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework02 - MultidimensionalArrays\01.PrintMatrixNN\obj\x86\Release\01.PrintMatrixNN.pdb

@@ -1,0 +1,2 @@
+one of the words is contained more than three times, two of the words are contained more than
+one time. No word is contained more than four times, the word three is contained only one time.

@@ -7,3 +7,5 @@ C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\01.MultiplyIndex\
 C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\01.MultiplyIndex\obj\x86\Debug\01.MultiplyIndex.pdb
 C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01 - Arrays\01.MultiplyIndex\obj\x86\Debug\01.MultiplyIndex.exe
 C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01 - Arrays\01.MultiplyIndex\obj\x86\Debug\01.MultiplyIndex.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework01 - Arrays\01.MultiplyIndex\obj\x86\Debug\01.MultiplyIndex.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework01 - Arrays\01.MultiplyIndex\obj\x86\Debug\01.MultiplyIndex.pdb

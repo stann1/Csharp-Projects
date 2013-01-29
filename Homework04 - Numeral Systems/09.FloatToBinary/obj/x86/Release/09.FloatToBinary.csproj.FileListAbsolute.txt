@@ -3,3 +3,5 @@ L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\09.FloatToBinary\bin\
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\09.FloatToBinary\obj\x86\Release\ResolveAssemblyReference.cache
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\09.FloatToBinary\obj\x86\Release\09.FloatToBinary.exe
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\09.FloatToBinary\obj\x86\Release\09.FloatToBinary.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\09.FloatToBinary\obj\x86\Release\09.FloatToBinary.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\09.FloatToBinary\obj\x86\Release\09.FloatToBinary.pdb
