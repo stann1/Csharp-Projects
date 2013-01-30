@@ -5,7 +5,7 @@ using System.Text;
 
 namespace _07.BaseConversion
 {
-    class Program
+    class BaseConversion
     {
         static int ConvertBaseXto10(string inputNumber, int inputBase)
         {
@@ -62,6 +62,7 @@ namespace _07.BaseConversion
             int inputBase = 2;
             int outputBase = 16;
 
+            Console.WriteLine("The input number (base {0}), in base {1} is:", inputBase, outputBase);
             ConvertBaseXtoBaseY(inputNumber, inputBase, outputBase);
         }
 

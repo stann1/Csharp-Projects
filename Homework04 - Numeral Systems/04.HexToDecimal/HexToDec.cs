@@ -5,7 +5,7 @@ using System.Text;
 
 namespace _04.HexToDecimal
 {
-    class Program
+    class HexToDec
     {
         static void Main(string[] args)
         {
@@ -24,7 +24,7 @@ namespace _04.HexToDecimal
                 decNum += digit * Math.Pow(16, (hex.Length - 1 - i));
             }
 
-            Console.WriteLine(decNum);
+            Console.WriteLine("The hex number {0} is: {1}", hex, decNum);
         }
     }
 }

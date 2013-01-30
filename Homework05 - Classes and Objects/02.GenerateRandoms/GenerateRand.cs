@@ -11,6 +11,7 @@ namespace _02.GenerateRandoms
         {
             Random randGenerator = new Random();
 
+            Console.WriteLine("Randoms (100 - 200):");
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine(randGenerator.Next(100, 201));

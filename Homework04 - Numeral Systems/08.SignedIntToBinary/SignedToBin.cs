@@ -5,7 +5,7 @@ using System.Text;
 
 namespace _08.SignedIntToBinary
 {
-    class Program
+    class SignedToBin
     {
         static void Main(string[] args)
         {
@@ -13,6 +13,7 @@ namespace _08.SignedIntToBinary
             List<int> result = new List<int>();
             bool signed = number < 0;
 
+            Console.WriteLine("The number {0} in binary:", number);
             if (signed)
             {
                 number = 32768 + number;        //short min value is -32768

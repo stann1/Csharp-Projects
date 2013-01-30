@@ -9,7 +9,7 @@ namespace _04.TriangleArea
     {
         static void Main(string[] args)
         {
-            int side1;
+            int side1;                                       //use preset values for easier testing
             int side2;
             int side3;
             int angle;

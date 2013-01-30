@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _11.DeleteWords
 {
-    class Program
+    class DeleteWords
     {
         static void Main(string[] args)
         {

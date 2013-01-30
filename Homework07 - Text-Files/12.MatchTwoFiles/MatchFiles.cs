@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _12.MatchTwoFiles
 {
-    class Program
+    class MatchFiles
     {
         static void Main(string[] args)
         {
@@ -49,11 +49,7 @@ namespace _12.MatchTwoFiles
             catch (IOException io)
             {
                 Console.WriteLine(io.Message);
-            }
-            catch (FormatException fe)
-            {
-                Console.WriteLine(fe.Message);
-            }
+            }            
             catch (UnauthorizedAccessException uae)
             {
                 Console.WriteLine(uae.Message);

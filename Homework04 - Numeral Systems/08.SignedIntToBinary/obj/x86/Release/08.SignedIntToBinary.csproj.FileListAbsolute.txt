@@ -3,3 +3,7 @@ L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\08.SignedIntToBinary\
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\08.SignedIntToBinary\obj\x86\Release\ResolveAssemblyReference.cache
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\08.SignedIntToBinary\obj\x86\Release\08.SignedIntToBinary.exe
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\08.SignedIntToBinary\obj\x86\Release\08.SignedIntToBinary.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\08.SignedIntToBinary\obj\x86\Release\08.SignedIntToBinary.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\08.SignedIntToBinary\obj\x86\Release\08.SignedIntToBinary.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\08.SignedIntToBinary\bin\Release\08.SignedIntToBinary.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\08.SignedIntToBinary\bin\Release\08.SignedIntToBinary.pdb

@@ -12,3 +12,6 @@ C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework04 - Numeral Systems
 C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.pdb
 C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.exe
 C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\01.DecimalToBinary\bin\Release\01.DecimalToBinary.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\01.DecimalToBinary\bin\Release\01.DecimalToBinary.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\01.DecimalToBinary\obj\x86\Release\01.DecimalToBinary.csprojResolveAssemblyReference.cache

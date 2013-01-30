@@ -18,6 +18,7 @@ namespace _01.DecimalToBinary
                 number /= 2;
             }
 
+            Console.WriteLine("The number in binary:");
             for (int i = result.Count - 1; i >= 0 ; i--)
             {
                 Console.Write(result[i]);

@@ -3,3 +3,7 @@ L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\06.BinToHexDirect\bin
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\06.BinToHexDirect\obj\x86\Release\ResolveAssemblyReference.cache
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\06.BinToHexDirect\obj\x86\Release\06.BinToHexDirect.exe
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\06.BinToHexDirect\obj\x86\Release\06.BinToHexDirect.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\06.BinToHexDirect\obj\x86\Release\06.BinToHexDirect.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\06.BinToHexDirect\obj\x86\Release\06.BinToHexDirect.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\06.BinToHexDirect\bin\Release\06.BinToHexDirect.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\06.BinToHexDirect\bin\Release\06.BinToHexDirect.pdb

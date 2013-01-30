@@ -5,3 +5,7 @@ L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\02.BinaryToDecimal\ob
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\02.BinaryToDecimal\obj\x86\Release\02.BinaryToDecimal.pdb
 C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework04 - Numeral Systems\02.BinaryToDecimal\obj\x86\Release\02.BinaryToDecimal.exe
 C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework04 - Numeral Systems\02.BinaryToDecimal\obj\x86\Release\02.BinaryToDecimal.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\02.BinaryToDecimal\obj\x86\Release\02.BinaryToDecimal.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\02.BinaryToDecimal\obj\x86\Release\02.BinaryToDecimal.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\02.BinaryToDecimal\bin\Release\02.BinaryToDecimal.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\02.BinaryToDecimal\bin\Release\02.BinaryToDecimal.pdb

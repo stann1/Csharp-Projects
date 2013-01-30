@@ -3,3 +3,7 @@ L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\bin\R
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\obj\x86\Release\ResolveAssemblyReference.cache
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\obj\x86\Release\04.HexToDecimal.exe
 L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\obj\x86\Release\04.HexToDecimal.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\04.HexToDecimal\obj\x86\Release\04.HexToDecimal.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\04.HexToDecimal\obj\x86\Release\04.HexToDecimal.pdb
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\04.HexToDecimal\bin\Release\04.HexToDecimal.exe
+C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\04.HexToDecimal\bin\Release\04.HexToDecimal.pdb

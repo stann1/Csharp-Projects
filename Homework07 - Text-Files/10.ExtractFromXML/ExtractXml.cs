@@ -30,10 +30,13 @@ namespace _10.ExtractFromXML
                         readNextChar = reader.Read();
                         while (readNextChar!= '<' && readNextChar != -1)
                         {
-                            word += (char)readNextChar;
+                            if (readNextChar != '\r' && readNextChar != '\n')         //This will trim new lines
+                            {
+                                word += (char)readNextChar;
+                            }                            
                             readNextChar = reader.Read();
                         }
-                        if(word != "") Console.WriteLine(word.Trim());          //TODO: remove empty lines
+                        if(word != "") Console.WriteLine(word.Trim());         
                         word = "";
                         start = false;
                     }

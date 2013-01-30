@@ -5,7 +5,7 @@ using System.Text;
 
 namespace _05.HexToBinDirect
 {
-    class Program
+    class HexToBin
     {
         static void Main(string[] args)
         {
@@ -42,7 +42,7 @@ namespace _05.HexToBinDirect
                 }
             }
 
-            Console.WriteLine(binary);
+            Console.WriteLine("The hex {0}, in binary: {1}", hex, binary);
 
         }
     }

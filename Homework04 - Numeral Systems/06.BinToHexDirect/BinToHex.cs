@@ -5,12 +5,13 @@ using System.Text;
 
 namespace _06.BinToHexDirect
 {
-    class Program
+    class BinToHex
     {
         static void Main(string[] args)
         {
             string binary = "101101";
-            
+            Console.WriteLine("The binary number {0} in hex is:", binary);
+
             while (binary.Length % 4 != 0)                   //Adds zeroes in front
             {
                 binary = '0' + binary;

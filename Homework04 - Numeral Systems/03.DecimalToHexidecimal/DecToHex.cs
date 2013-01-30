@@ -18,6 +18,7 @@ namespace _03.DecimalToHexidecimal
                 number /= 16;
             }
 
+            Console.WriteLine("The number in hex is:");
             for (int i = result.Count - 1; i >= 0; i--)
             {
                 if (result[i] > 9)

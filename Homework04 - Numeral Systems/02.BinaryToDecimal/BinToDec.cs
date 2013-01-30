@@ -19,7 +19,7 @@ namespace _02.BinaryToDecimal
                 decNum += digit*Math.Pow(2, (binary.Length - 1 - i));
             }
 
-            Console.WriteLine(decNum);
+            Console.WriteLine("The binary number {0} is: {1}", binary, decNum);
         }
     }
 }

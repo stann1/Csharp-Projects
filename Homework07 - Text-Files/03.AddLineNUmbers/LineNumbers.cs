@@ -14,9 +14,9 @@ namespace _03.AddLineNumbers
             StreamReader reader = new StreamReader("sample2.txt");
             StreamWriter writer = new StreamWriter("output.txt");
 
-            using (writer)
+            using (reader)
             {
-                using (reader)
+                using (writer)
                 {
                     string line = reader.ReadLine();
                     int lineNum = 1;

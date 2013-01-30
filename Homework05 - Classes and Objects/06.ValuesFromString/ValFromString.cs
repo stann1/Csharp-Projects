@@ -33,6 +33,7 @@ namespace _06.ValuesFromString
 
             }
 
+            Console.WriteLine("The string sums to:");
             Console.WriteLine(sum);
         }
     }
