@@ -7,44 +7,47 @@ namespace _09.FloatToBinary
 {
     class Program
     {
-        static void ConvertToBinary(int number)
-        {
-            List<int> result = new List<int>();
-            bool signed = number < 0;
 
-            if (signed)
+        static string ConvertExponent(int exp, int sign)
+        {            
+           string result = "";
+
+            while (exp > 0)
             {
-                number = 128 + number;        //short min value is -32768
+                result += exp % 2;
+                exp /= 2;
             }
 
-            while (number > 0)
+            string bin = "";
+            for (int i = result.Length - 1; i >= 0; i--)
             {
-                result.Add(number % 2);
-                number /= 2;
+                bin += result[i];
             }
-
-            if (signed)
-            {
-                while (result.Count < 7)          //Will add 0 for unlocated bits.
-                {
-                    result.Add(0);
-                }
-                result.Add(1);
-            }
-
-            for (int i = result.Count - 1; i >= 0; i--)
-            {
-                Console.Write(result[i]);
-            }
-            Console.WriteLine();
+            return bin;
         }
+
+        //static string ConvertMantissa(float mant)
+        //{
+            
+        //}
 
 
         static void Main(string[] args)
         {
-                       
+            float number = -27.25f;
 
-            
+            int sign = number < 0 ? 1 : 0;
+            number = Math.Abs(number);
+
+            int exp = (int)number;
+            string integer = ConvertExponent(exp, sign);
+            Console.WriteLine(integer);
+
+            //float mant = number - exp;
+            //string fraction = ConvertMantissa(mant);
         }
+
+        
+
     }
 }
