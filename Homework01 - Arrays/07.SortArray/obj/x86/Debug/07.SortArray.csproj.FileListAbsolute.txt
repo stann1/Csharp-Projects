@@ -1,5 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework01\07.SortArray\bin\Debug\07.SortArray.exe
-L:\StoychevS\VS_2010 Projects\Homework01\07.SortArray\bin\Debug\07.SortArray.pdb
-L:\StoychevS\VS_2010 Projects\Homework01\07.SortArray\obj\x86\Debug\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework01\07.SortArray\obj\x86\Debug\07.SortArray.exe
-L:\StoychevS\VS_2010 Projects\Homework01\07.SortArray\obj\x86\Debug\07.SortArray.pdb

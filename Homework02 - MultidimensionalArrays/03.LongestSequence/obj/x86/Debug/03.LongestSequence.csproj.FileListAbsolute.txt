@@ -1,5 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework02\03.LongestSequence\bin\Debug\03.LongestSequence.exe
-L:\StoychevS\VS_2010 Projects\Homework02\03.LongestSequence\bin\Debug\03.LongestSequence.pdb
-L:\StoychevS\VS_2010 Projects\Homework02\03.LongestSequence\obj\x86\Debug\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework02\03.LongestSequence\obj\x86\Debug\03.LongestSequence.exe
-L:\StoychevS\VS_2010 Projects\Homework02\03.LongestSequence\obj\x86\Debug\03.LongestSequence.pdb

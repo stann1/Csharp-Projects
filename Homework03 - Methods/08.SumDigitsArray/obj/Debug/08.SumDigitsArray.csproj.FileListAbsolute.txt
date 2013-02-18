@@ -1,5 +1,0 @@
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\08.SumDigitsArray\bin\Debug\08.SumDigitsArray.exe.config
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\08.SumDigitsArray\bin\Debug\08.SumDigitsArray.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\08.SumDigitsArray\bin\Debug\08.SumDigitsArray.pdb
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\08.SumDigitsArray\obj\Debug\08.SumDigitsArray.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\08.SumDigitsArray\obj\Debug\08.SumDigitsArray.pdb

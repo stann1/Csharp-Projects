@@ -1,9 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\bin\Release\05.HexToBinDirect.exe
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\bin\Release\05.HexToBinDirect.pdb
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\obj\x86\Release\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\obj\x86\Release\05.HexToBinDirect.exe
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\05.HexToBinDirect\obj\x86\Release\05.HexToBinDirect.pdb
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\05.HexToBinDirect\obj\x86\Release\05.HexToBinDirect.exe
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\05.HexToBinDirect\obj\x86\Release\05.HexToBinDirect.pdb
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\05.HexToBinDirect\bin\Release\05.HexToBinDirect.exe
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework04 - Numeral Systems\05.HexToBinDirect\bin\Release\05.HexToBinDirect.pdb

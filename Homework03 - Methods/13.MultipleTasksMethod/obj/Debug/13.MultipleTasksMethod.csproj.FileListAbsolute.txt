@@ -1,6 +1,0 @@
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\13.MultipleTasksMethod\bin\Debug\13.MultipleTasksMethod.exe.config
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\13.MultipleTasksMethod\bin\Debug\13.MultipleTasksMethod.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\13.MultipleTasksMethod\bin\Debug\13.MultipleTasksMethod.pdb
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\13.MultipleTasksMethod\obj\Debug\13.MultipleTasksMethod.csprojResolveAssemblyReference.cache
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\13.MultipleTasksMethod\obj\Debug\13.MultipleTasksMethod.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\13.MultipleTasksMethod\obj\Debug\13.MultipleTasksMethod.pdb

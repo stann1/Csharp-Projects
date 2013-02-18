@@ -1,5 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\bin\Debug\_07.EqualNeighbors.exe
-L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\bin\Debug\_07.EqualNeighbors.pdb
-L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\obj\x86\Debug\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\obj\x86\Debug\_07.EqualNeighbors.exe
-L:\StoychevS\VS_2010 Projects\Homework02\07.EqualNeighbors\obj\x86\Debug\_07.EqualNeighbors.pdb

@@ -1,5 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework02\02.MaximalSumOfElements\bin\Debug\02.MaximalSumOfElements.exe
-L:\StoychevS\VS_2010 Projects\Homework02\02.MaximalSumOfElements\bin\Debug\02.MaximalSumOfElements.pdb
-L:\StoychevS\VS_2010 Projects\Homework02\02.MaximalSumOfElements\obj\x86\Debug\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework02\02.MaximalSumOfElements\obj\x86\Debug\02.MaximalSumOfElements.exe
-L:\StoychevS\VS_2010 Projects\Homework02\02.MaximalSumOfElements\obj\x86\Debug\02.MaximalSumOfElements.pdb

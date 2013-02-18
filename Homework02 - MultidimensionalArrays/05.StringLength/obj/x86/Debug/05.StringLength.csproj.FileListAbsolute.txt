@@ -1,5 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\bin\Debug\05.StringLength.exe
-L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\bin\Debug\05.StringLength.pdb
-L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\obj\x86\Debug\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\obj\x86\Debug\05.StringLength.exe
-L:\StoychevS\VS_2010 Projects\Homework02\05.StringLength\obj\x86\Debug\05.StringLength.pdb

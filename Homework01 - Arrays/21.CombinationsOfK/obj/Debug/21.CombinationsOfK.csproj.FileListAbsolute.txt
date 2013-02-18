@@ -1,9 +1,0 @@
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\21.CombinationsOfK\bin\Debug\21.CombinationsOfK.exe.config
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\21.CombinationsOfK\bin\Debug\21.CombinationsOfK.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\21.CombinationsOfK\bin\Debug\21.CombinationsOfK.pdb
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\21.CombinationsOfK\obj\Debug\21.CombinationsOfK.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\21.CombinationsOfK\obj\Debug\21.CombinationsOfK.pdb
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework01\21.CombinationsOfK\obj\Debug\21.CombinationsOfK.csprojResolveAssemblyReference.cache
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework01 - Arrays\21.CombinationsOfK\bin\Debug\21.CombinationsOfK.exe.config
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework01 - Arrays\21.CombinationsOfK\obj\Debug\21.CombinationsOfK.exe
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework01 - Arrays\21.CombinationsOfK\obj\Debug\21.CombinationsOfK.pdb

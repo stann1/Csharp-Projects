@@ -1,5 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\bin\Debug\04.HexToDecimal.pdb
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\obj\x86\Debug\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\obj\x86\Debug\04.HexToDecimal.exe
-L:\StoychevS\VS_2010 Projects\Homework04 - Numeral Systems\04.HexToDecimal\obj\x86\Debug\04.HexToDecimal.pdb

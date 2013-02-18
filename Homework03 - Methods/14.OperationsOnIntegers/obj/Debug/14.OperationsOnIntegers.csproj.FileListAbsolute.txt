@@ -1,5 +1,0 @@
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\14.OperationsOnIntegers\bin\Debug\14.OperationsOnIntegers.exe.config
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\14.OperationsOnIntegers\bin\Debug\14.OperationsOnIntegers.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\14.OperationsOnIntegers\bin\Debug\14.OperationsOnIntegers.pdb
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\14.OperationsOnIntegers\obj\Debug\14.OperationsOnIntegers.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\14.OperationsOnIntegers\obj\Debug\14.OperationsOnIntegers.pdb

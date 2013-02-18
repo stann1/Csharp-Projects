@@ -1,9 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\04.TriangleArea\bin\Release\04.TriangleArea.exe
-L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\04.TriangleArea\bin\Release\04.TriangleArea.pdb
-L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\04.TriangleArea\obj\x86\Release\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\04.TriangleArea\obj\x86\Release\04.TriangleArea.exe
-L:\StoychevS\VS_2010 Projects\Homework05 - Classes and Objects\04.TriangleArea\obj\x86\Release\04.TriangleArea.pdb
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\04.TriangleArea\obj\x86\Release\04.TriangleArea.exe
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\04.TriangleArea\obj\x86\Release\04.TriangleArea.pdb
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\04.TriangleArea\bin\Release\04.TriangleArea.exe
-C:\Users\Stan\Documents\TelerikAcademy-Homework\Csharp-Projects\Homework05 - Classes and Objects\04.TriangleArea\bin\Release\04.TriangleArea.pdb

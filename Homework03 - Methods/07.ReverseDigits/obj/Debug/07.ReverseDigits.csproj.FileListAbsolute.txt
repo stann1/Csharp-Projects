@@ -1,6 +1,0 @@
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe.config
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\07.ReverseDigits\bin\Debug\07.ReverseDigits.pdb
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\07.ReverseDigits\obj\Debug\07.ReverseDigits.csprojResolveAssemblyReference.cache
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\07.ReverseDigits\obj\Debug\07.ReverseDigits.exe
-C:\Users\Stan\Documents\Visual Studio 2012\Projects\Homework03\07.ReverseDigits\obj\Debug\07.ReverseDigits.pdb

@@ -1,5 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework01\02.CompareArrays\bin\Release\02.CompareArrays.exe
-L:\StoychevS\VS_2010 Projects\Homework01\02.CompareArrays\bin\Release\02.CompareArrays.pdb
-L:\StoychevS\VS_2010 Projects\Homework01\02.CompareArrays\obj\x86\Release\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework01\02.CompareArrays\obj\x86\Release\02.CompareArrays.exe
-L:\StoychevS\VS_2010 Projects\Homework01\02.CompareArrays\obj\x86\Release\02.CompareArrays.pdb

@@ -1,5 +1,0 @@
-c:\users\stan\documents\visual studio 2012\Projects\Homework03\06.FirstLargerNeighbor\bin\Debug\06.FirstLargerNeighbor.exe.config
-c:\users\stan\documents\visual studio 2012\Projects\Homework03\06.FirstLargerNeighbor\bin\Debug\06.FirstLargerNeighbor.exe
-c:\users\stan\documents\visual studio 2012\Projects\Homework03\06.FirstLargerNeighbor\bin\Debug\06.FirstLargerNeighbor.pdb
-c:\users\stan\documents\visual studio 2012\Projects\Homework03\06.FirstLargerNeighbor\obj\Debug\06.FirstLargerNeighbor.exe
-c:\users\stan\documents\visual studio 2012\Projects\Homework03\06.FirstLargerNeighbor\obj\Debug\06.FirstLargerNeighbor.pdb

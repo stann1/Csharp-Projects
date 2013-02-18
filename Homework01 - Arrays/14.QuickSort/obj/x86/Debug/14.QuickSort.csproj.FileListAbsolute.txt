@@ -1,5 +1,0 @@
-L:\StoychevS\VS_2010 Projects\Homework01\14.QuickSort\bin\Debug\14.QuickSort.exe
-L:\StoychevS\VS_2010 Projects\Homework01\14.QuickSort\bin\Debug\14.QuickSort.pdb
-L:\StoychevS\VS_2010 Projects\Homework01\14.QuickSort\obj\x86\Debug\ResolveAssemblyReference.cache
-L:\StoychevS\VS_2010 Projects\Homework01\14.QuickSort\obj\x86\Debug\14.QuickSort.exe
-L:\StoychevS\VS_2010 Projects\Homework01\14.QuickSort\obj\x86\Debug\14.QuickSort.pdb
