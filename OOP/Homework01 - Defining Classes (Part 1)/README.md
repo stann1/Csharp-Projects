@@ -1,5 +1,6 @@
-Defining Classes and Objects (part1)
+Defining classes and objects (part 1)
 ===============
+
 
 Task description:
 
@@ -24,5 +25,3 @@ Task description:
 - Assuming that the price per minute is 0.37 calculate and print the total price of the calls in the history.
 - Remove the longest call from the history and calculate the total price again.
 - Finally clear the call history and print it.
-
-
