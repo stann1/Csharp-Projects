@@ -1,0 +1,8 @@
+x coord: 1
+y coord: 1
+z coord: 6
+
+x coord: 0
+y coord: 0
+z coord: 0
+

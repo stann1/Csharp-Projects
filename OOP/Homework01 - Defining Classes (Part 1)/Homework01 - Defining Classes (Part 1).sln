@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MobilePhoneClass", "01.MobilePhoneClass\01.MobilePhoneClass.csproj", "{F8674B97-9476-4558-BA72-A1704E0109AA}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePhone", "01.MobilePhoneClass\MobilePhone.csproj", "{F8674B97-9476-4558-BA72-A1704E0109AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

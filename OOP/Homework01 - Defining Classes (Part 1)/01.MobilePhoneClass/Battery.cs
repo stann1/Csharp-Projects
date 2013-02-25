@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace _01.MobilePhoneClass
+namespace MobilePhone
 {
     public enum BatteryType { LiIon, NiMH, NiCd }      //task 3
 
