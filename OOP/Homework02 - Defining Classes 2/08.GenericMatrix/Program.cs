@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace GenericMatrix
+namespace GenericMatrix                       //includes task 8 - 10
 {
     class Program
     {

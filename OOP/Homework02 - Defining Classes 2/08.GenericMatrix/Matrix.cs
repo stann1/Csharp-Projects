@@ -43,7 +43,7 @@ namespace GenericMatrix
             }
         }
 
-        //Methods
+        //Methods  - task 10
         public static Matrix<T> operator +(Matrix<T> matrix1, Matrix<T> matrix2)
         {
             Matrix<T> resultMatrix = new Matrix<T>(matrix1.rows, matrix1.columns);
@@ -114,7 +114,7 @@ namespace GenericMatrix
             return resultMatrix;
         }
 
-        public static bool TrueFalse(Matrix<T> matrix, bool condition)       //Joint method for true anf false
+        public static bool TrueFalse(Matrix<T> matrix, bool condition)       //Joint method for true and false, true means the matrix has elements
         {
             for (int i = 0; i < matrix.rows; i++)
             {
