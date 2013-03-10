@@ -7,7 +7,7 @@ namespace MobilePhone
 {
     class GSMCallHistoryTest
     {
-        //static void Main()           //task 12, uncomment to test
+        //static void Main()           //task 12, uncomment to test, or comment in order to use GSMTest
         //{
         //    GSM newPhone = new GSM("Samsung", "Galaxy2", "Pesho", 799.90);
 

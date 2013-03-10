@@ -7,7 +7,7 @@ namespace MobilePhone
 {
     class GSMTest                                 
     {
-        static void Main(string[] args)            //task 7, uncomment to test
+        static void Main(string[] args)            //task 7, uncomment to test, or comment in order to use GSMCallHistoryTest
         {
             Battery newBattery = new Battery("VPower", 66, 12, BatteryType.NiMH);
             Display newDisplay = new Display(4.7, 13000000);
