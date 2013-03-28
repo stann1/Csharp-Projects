@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="_01.School.Discipline">
-    <Position X="7.5" Y="3.25" Width="1.5" />
+    <Position X="6.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAACAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
       <FileName>Discipline.cs</FileName>
@@ -16,14 +16,14 @@
     </TypeIdentifier>
   </Class>
   <Class Name="_01.School.School" Collapsed="true">
-    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Position X="5.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>QAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>School.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="_01.School.SchoolClass" Collapsed="true">
-    <Position X="5.5" Y="1.5" Width="1.5" />
+    <Position X="5.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIAAAAEAAAAAAAgAAAEAAAAAAAAAAAAAAIAAgAAAAA=</HashCode>
       <FileName>SchoolClass.cs</FileName>
@@ -39,22 +39,22 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_01.School.Teacher">
-    <Position X="5" Y="3.25" Width="1.5" />
+    <Position X="4.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
       <FileName>Teacher.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Position="0.192" />
   </Class>
   <Class Name="_01.School.TestProgram">
-    <Position X="9.25" Y="1.5" Width="1.5" />
+    <Position X="8" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>TestProgram.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="_01.School.ICommentable" Collapsed="true">
-    <Position X="9.25" Y="0.75" Width="1.5" />
+    <Position X="8" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ICommentable.cs</FileName>
