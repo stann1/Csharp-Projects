@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SolarSystem", "01.SolarSystem\01.SolarSystem.csproj", "{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PerformanceOfPrimitiveTypes", "02.PerformanceOfPrimitiveTypes\02.PerformanceOfPrimitiveTypes.csproj", "{DB39613F-EBFB-48A8-9D15-0C66BD03C8BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PerformanceOfMathOperations", "03.PerformanceOfMathOperations\03.PerformanceOfMathOperations.csproj", "{79B7DA31-4D16-4818-B0F9-5CA39DBA380E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB39613F-EBFB-48A8-9D15-0C66BD03C8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB39613F-EBFB-48A8-9D15-0C66BD03C8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB39613F-EBFB-48A8-9D15-0C66BD03C8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB39613F-EBFB-48A8-9D15-0C66BD03C8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B7DA31-4D16-4818-B0F9-5CA39DBA380E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B7DA31-4D16-4818-B0F9-5CA39DBA380E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B7DA31-4D16-4818-B0F9-5CA39DBA380E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B7DA31-4D16-4818-B0F9-5CA39DBA380E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
