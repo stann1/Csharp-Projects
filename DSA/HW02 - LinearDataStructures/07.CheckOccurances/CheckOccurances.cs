@@ -11,9 +11,7 @@ namespace _07.CheckOccurances
         static void Main(string[] args)
         {
             List<int> sequence = new List<int>() { 1, 4, 1, 3, 3, 3, 11, 11, 12, 11 };
-            Dictionary<int, int> selection = new Dictionary<int, int>();
-            List<int> checkedNumbers = new List<int>();
-
+            Dictionary<int, int> selection = new Dictionary<int, int>();   
 
             for (int i = 0; i < sequence.Count; i++)
             {
@@ -22,10 +20,9 @@ namespace _07.CheckOccurances
                 int count = sequence.FindAll(x => x == number).Count;
 
                 //To avoid repetition, perform a check if the number has been found already
-                if (!checkedNumbers.Contains(number))
+                if (!selection.ContainsKey(number))
                 {
-                    selection.Add(number, count);
-                    checkedNumbers.Add(number);
+                    selection.Add(number, count);                    
                 }
             }
 
