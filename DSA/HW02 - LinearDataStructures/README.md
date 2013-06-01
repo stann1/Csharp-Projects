@@ -23,7 +23,6 @@ S7 = S2 + 2;
 ...
 Using the Queue<T> class write a program to print its first 50 members for given N.
 Example: N=2 ? 2, 3, 5, 4, 4, 7, 5, 6, 11, 7, 5, 9, 6, ...
-
 10. * We are given numbers N and M and the following operations:
 N = N+1
 N = N+2
@@ -31,7 +30,6 @@ N = N*2
 Write a program that finds the shortest sequence of operations from the list above that starts from N and finishes in M. Hint: use a queue.
 Example: N = 5, M = 16
 Sequence: 5 ? 7 ? 8 ? 16
-
 11. Implement the data structure linked list. Define a class ListItem<T> that has two fields: value (of type T) and NextItem (of type ListItem<T>). Define additionally a class LinkedList<T> with a single field FirstElement (of type ListItem<T>).
 12. Implement the ADT stack as auto-resizable array. Resize the capacity on demand (when no space is available to add / insert a new element).
 13. Implement the ADT queue as dynamic linked list. Use generics (LinkedQueue<T>) to allow storing different data types in the queue.
