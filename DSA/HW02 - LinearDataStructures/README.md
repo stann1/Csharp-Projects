@@ -10,7 +10,7 @@ Example: array = {3, 4, 4, 2, 3, 3, 4, 3, 2}
 2 ? 2 times
 3 ? 4 times
 4 ? 3 times
-8.* The majorant of an array of size N is a value that occurs in it at least N/2 + 1 times. Write a program to find the majorant of given array (if exists). Example:
+8. The majorant of an array of size N is a value that occurs in it at least N/2 + 1 times. Write a program to find the majorant of given array (if exists). Example:
 {2, 2, 3, 3, 2, 3, 4, 3, 3} ? 3
 9. We are given the following sequence:
 S1 = N;
@@ -33,4 +33,4 @@ Sequence: 5 ? 7 ? 8 ? 16
 11. Implement the data structure linked list. Define a class ListItem<T> that has two fields: value (of type T) and NextItem (of type ListItem<T>). Define additionally a class LinkedList<T> with a single field FirstElement (of type ListItem<T>).
 12. Implement the ADT stack as auto-resizable array. Resize the capacity on demand (when no space is available to add / insert a new element).
 13. Implement the ADT queue as dynamic linked list. Use generics (LinkedQueue<T>) to allow storing different data types in the queue.
-14.* We are given a labyrinth of size N x N. Some of its cells are empty (0) and some are full (x). We can move from an empty cell to another empty cell if they share common wall. Given a starting position * calculate and fill in the array the minimal distance from this position to any other cell in the array. Use "u" for all unreachable cells. Example:
+14. We are given a labyrinth of size N x N. Some of its cells are empty (0) and some are full (x). We can move from an empty cell to another empty cell if they share common wall. Given a starting position * calculate and fill in the array the minimal distance from this position to any other cell in the array. Use "u" for all unreachable cells. Example:
