@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ConstructTreeFromInput", "01.ConstructTreeFromInput\01.ConstructTreeFromInput.csproj", "{ABFFE6A8-ACB8-432B-9029-37C4A2AE1F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TraverseWindDir", "02.TraverseWindDir\02.TraverseWindDir.csproj", "{A04B788F-731A-45AA-B662-235A26B8B057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RecreateDirStructure", "03.RecreateDirStructure\03.RecreateDirStructure.csproj", "{E92B71BD-74D4-4FE0-8F81-FEB29E0F3588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFFE6A8-ACB8-432B-9029-37C4A2AE1F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFFE6A8-ACB8-432B-9029-37C4A2AE1F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFFE6A8-ACB8-432B-9029-37C4A2AE1F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFFE6A8-ACB8-432B-9029-37C4A2AE1F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04B788F-731A-45AA-B662-235A26B8B057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04B788F-731A-45AA-B662-235A26B8B057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04B788F-731A-45AA-B662-235A26B8B057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04B788F-731A-45AA-B662-235A26B8B057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92B71BD-74D4-4FE0-8F81-FEB29E0F3588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92B71BD-74D4-4FE0-8F81-FEB29E0F3588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92B71BD-74D4-4FE0-8F81-FEB29E0F3588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92B71BD-74D4-4FE0-8F81-FEB29E0F3588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

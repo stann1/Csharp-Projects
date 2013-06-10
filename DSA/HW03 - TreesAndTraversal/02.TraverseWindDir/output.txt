@@ -1,0 +1,292 @@
+--C:\Program Files\7-Zip\7z.exe
+--C:\Program Files\7-Zip\7zFM.exe
+--C:\Program Files\7-Zip\7zG.exe
+----C:\Program Files\Adobe\Adobe Photoshop CS5.1 (64 Bit)\arh.exe
+----C:\Program Files\Adobe\Adobe Photoshop CS5.1 (64 Bit)\LogTransport2.exe
+----C:\Program Files\Adobe\Adobe Photoshop CS5.1 (64 Bit)\Photoshop.exe
+------C:\Program Files\Adobe\Adobe Photoshop CS5.1 (64 Bit)\Required\AdobeQTServer.exe
+------C:\Program Files\Adobe\Adobe Photoshop CS5.1 (64 Bit)\Required\Droplet Template.exe
+------C:\Program Files\ATI\CIM\Bin64\ATISetup.exe
+------C:\Program Files\ATI\CIM\Bin64\InstallManagerApp.exe
+------C:\Program Files\ATI\CIM\Bin64\SetACL64.exe
+------C:\Program Files\ATI\CIM\Bin64\SetAcl64.exe.manifest
+------C:\Program Files\ATI\CIM\Bin64\Setup.exe
+----C:\Program Files\AVAST Software\Avast\ashQuick.exe
+----C:\Program Files\AVAST Software\Avast\ashUpd.exe
+----C:\Program Files\AVAST Software\Avast\aswAraSr.exe
+----C:\Program Files\AVAST Software\Avast\aswChLic.exe
+----C:\Program Files\AVAST Software\Avast\aswRegSvr.exe
+----C:\Program Files\AVAST Software\Avast\aswRegSvr64.exe
+----C:\Program Files\AVAST Software\Avast\aswRunDll.exe
+----C:\Program Files\AVAST Software\Avast\AvastEmUpdate.exe
+----C:\Program Files\AVAST Software\Avast\AvastSvc.exe
+----C:\Program Files\AVAST Software\Avast\AvastUI.exe
+----C:\Program Files\AVAST Software\Avast\sched.exe
+----C:\Program Files\AVAST Software\Avast\VisthAux.exe
+----------C:\Program Files\AVAST Software\Avast\Setup\INF\x64\aswBoot.exe
+----------C:\Program Files\AVAST Software\Avast\Setup\INF\x64\netcfg_x64.exe
+----------C:\Program Files\Common Files\Adobe\Linguistics\5.0\ImportUserDictTool\ImportUserDict.exe
+------C:\Program Files\Common Files\Microsoft Shared\EQUATION\eqnedt32.exe.manifest
+------C:\Program Files\Common Files\Microsoft Shared\ink\ConvertInkStore.exe
+------C:\Program Files\Common Files\Microsoft Shared\ink\FlickLearningWizard.exe
+------C:\Program Files\Common Files\Microsoft Shared\ink\InkWatson.exe
+------C:\Program Files\Common Files\Microsoft Shared\ink\InputPersonalization.exe
+------C:\Program Files\Common Files\Microsoft Shared\ink\mip.exe
+------C:\Program Files\Common Files\Microsoft Shared\ink\ShapeCollector.exe
+------C:\Program Files\Common Files\Microsoft Shared\ink\TabTip.exe
+--------C:\Program Files\Common Files\Microsoft Shared\ink\en-US\FlickLearningWizard.exe.mui
+--------C:\Program Files\Common Files\Microsoft Shared\ink\en-US\InkWatson.exe.mui
+--------C:\Program Files\Common Files\Microsoft Shared\ink\en-US\InputPersonalization.exe.mui
+--------C:\Program Files\Common Files\Microsoft Shared\ink\en-US\mip.exe.mui
+--------C:\Program Files\Common Files\Microsoft Shared\ink\en-US\ShapeCollector.exe.mui
+------C:\Program Files\Common Files\Microsoft Shared\MSInfo\msinfo32.exe
+--------C:\Program Files\Common Files\Microsoft Shared\MSInfo\en-US\msinfo32.exe.mui
+------C:\Program Files\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe
+--------C:\Program Files\Common Files\Microsoft Shared\OFFICE14\Office Setup Controller\ODeploy.exe
+--------C:\Program Files\Common Files\Microsoft Shared\OFFICE14\Office Setup Controller\Setup.exe
+------C:\Program Files\Common Files\Microsoft Shared\Smart Tag\SmartTagInstall.exe
+--------C:\Program Files\Common Files\Microsoft Shared\Team Foundation Server\11.0\TFSFieldMapping.exe
+--------C:\Program Files\Common Files\Microsoft Shared\Team Foundation Server\11.0\TfsNop.exe
+--------C:\Program Files\Common Files\Microsoft Shared\Team Foundation Server\11.0\TfsProtocolHandler.exe
+--------C:\Program Files\Common Files\Microsoft Shared\Team Foundation Server\11.0\TfsServiceHost.exe
+----------C:\Program Files\Common Files\Microsoft Shared\Team Foundation Server\11.0\LabManagement\TestAgentInstaller.exe
+--------C:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\VSTOInstaller.exe
+----------C:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)\install.exe
+--------C:\Program Files\Common Files\Microsoft Shared\WF\amd64\WorkflowDebugHost.exe
+----C:\Program Files\CONEXANT\CMAXXPRESET\MaxxPresetAPI64.exe
+----C:\Program Files\CONEXANT\CMAXXPRESET\Setup64.exe
+----C:\Program Files\CONEXANT\CNXT_AUDIO_HDA\UIU64a.exe
+----C:\Program Files\CONEXANT\SA3\CxUtilSvc.exe
+----C:\Program Files\CONEXANT\SA3\MaxxAudioMeters64.exe
+----C:\Program Files\CONEXANT\SA3\SACpl.exe
+----C:\Program Files\CONEXANT\SA3\setup64.exe
+----C:\Program Files\CONEXANT\SA3\SmartAudio3.exe
+----C:\Program Files\CONEXANT\SA3\SmartAudio3.exe.config
+----C:\Program Files\Dell\DW WLAN Card\bcmwls64.exe
+----C:\Program Files\Dell\DW WLAN Card\bcmwlu00.exe
+----C:\Program Files\Dell\DW WLAN Card\Inst2Gac.exe
+----C:\Program Files\Dell\QuickSet\BacklitKB.exe
+----C:\Program Files\Dell\QuickSet\battery.exe
+----C:\Program Files\Dell\QuickSet\MobilityCenter.exe
+----C:\Program Files\Dell\QuickSet\quickset.exe
+----C:\Program Files\Dell\QuickSet\UserBtn.exe
+----C:\Program Files\Dell\QuickSet\WiFiLocator.exe
+----C:\Program Files\DIFX\B60D1297D6D5E54C\dpinst.exe
+--C:\Program Files\DVD Maker\DVDMaker.exe
+----C:\Program Files\DVD Maker\en-US\DVDMaker.exe.mui
+--C:\Program Files\Elantech\CallMainCpl.exe
+--C:\Program Files\Elantech\DellDevices.exe
+--C:\Program Files\Elantech\ETDCtrl.exe
+--C:\Program Files\Elantech\ETDCtrlHelper.exe
+--C:\Program Files\Elantech\ETDDeviceInformation.exe
+--C:\Program Files\Elantech\ETDGesture.exe
+--C:\Program Files\Elantech\ETDMag.exe
+--C:\Program Files\Elantech\ETDUn_inst.exe
+----C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe
+----C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe.config
+----C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe.configsettings.example
+------C:\Program Files\IIS\Microsoft Web Deploy V3\Scripts\powershellcustomhost.exe
+------C:\Program Files\IIS\Microsoft Web Deploy V3\Scripts\powershellcustomhost.exe.config
+--C:\Program Files\IIS Express\appcmd.exe
+--C:\Program Files\IIS Express\iisexpress.exe
+--C:\Program Files\IIS Express\iisexpress.exe.manifest
+--C:\Program Files\IIS Express\IisExpressAdminCmd.exe
+--C:\Program Files\IIS Express\IisExpressAdminCmd.exe.config
+--C:\Program Files\IIS Express\iisexpresstray.exe
+--C:\Program Files\IIS Express\iisexpresstray.exe.config
+--C:\Program Files\IIS Express\iisexpresstray.exe.manifest
+----C:\Program Files\IIS Express\cs-CZ\appcmd.exe.mui
+----C:\Program Files\IIS Express\cs-CZ\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\de-DE\appcmd.exe.mui
+----C:\Program Files\IIS Express\de-DE\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\en-us\appcmd.exe.mui
+----C:\Program Files\IIS Express\en-us\iisexpress.exe.mui
+----C:\Program Files\IIS Express\en-us\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\es-ES\appcmd.exe.mui
+----C:\Program Files\IIS Express\es-ES\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\fr-FR\appcmd.exe.mui
+----C:\Program Files\IIS Express\fr-FR\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\it-IT\appcmd.exe.mui
+----C:\Program Files\IIS Express\it-IT\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\ja-JP\appcmd.exe.mui
+----C:\Program Files\IIS Express\ja-JP\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\ko-KR\appcmd.exe.mui
+----C:\Program Files\IIS Express\ko-KR\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\pl-PL\appcmd.exe.mui
+----C:\Program Files\IIS Express\pl-PL\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\pt-BR\appcmd.exe.mui
+----C:\Program Files\IIS Express\pt-BR\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\ru-RU\appcmd.exe.mui
+----C:\Program Files\IIS Express\ru-RU\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\tr-TR\appcmd.exe.mui
+----C:\Program Files\IIS Express\tr-TR\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\zh-CN\appcmd.exe.mui
+----C:\Program Files\IIS Express\zh-CN\iisexpresstray.exe.mui
+----C:\Program Files\IIS Express\zh-TW\appcmd.exe.mui
+----C:\Program Files\IIS Express\zh-TW\iisexpresstray.exe.mui
+----C:\Program Files\Intel\iCLS Client\HeciServer.exe
+----C:\Program Files\Intel\TurboBoost\RegTbDrvCat_x64.exe
+----C:\Program Files\Intel\TurboBoost\SignalIslandUi.exe
+----C:\Program Files\Intel\TurboBoost\SignalIslandUi.exe.config
+----C:\Program Files\Intel\TurboBoost\TurboBoost.exe
+--C:\Program Files\Internet Explorer\iediagcmd.exe
+--C:\Program Files\Internet Explorer\ieinstal.exe
+--C:\Program Files\Internet Explorer\ielowutil.exe
+--C:\Program Files\Internet Explorer\iexplore.exe
+----C:\Program Files\Internet Explorer\en-US\ieinstal.exe.mui
+----C:\Program Files\Internet Explorer\en-US\iexplore.exe.mui
+------C:\Program Files\Java\jre7\bin\java-rmi.exe
+------C:\Program Files\Java\jre7\bin\java.exe
+------C:\Program Files\Java\jre7\bin\javacpl.exe
+------C:\Program Files\Java\jre7\bin\javaw.exe
+------C:\Program Files\Java\jre7\bin\javaws.exe
+------C:\Program Files\Java\jre7\bin\jp2launcher.exe
+------C:\Program Files\Java\jre7\bin\keytool.exe
+------C:\Program Files\Java\jre7\bin\kinit.exe
+------C:\Program Files\Java\jre7\bin\klist.exe
+------C:\Program Files\Java\jre7\bin\ktab.exe
+------C:\Program Files\Java\jre7\bin\orbd.exe
+------C:\Program Files\Java\jre7\bin\pack200.exe
+------C:\Program Files\Java\jre7\bin\policytool.exe
+------C:\Program Files\Java\jre7\bin\rmid.exe
+------C:\Program Files\Java\jre7\bin\rmiregistry.exe
+------C:\Program Files\Java\jre7\bin\servertool.exe
+------C:\Program Files\Java\jre7\bin\ssvagent.exe
+------C:\Program Files\Java\jre7\bin\tnameserv.exe
+------C:\Program Files\Java\jre7\bin\unpack200.exe
+----C:\Program Files\Microsoft\Web Platform Installer\WebpiCmd.exe
+----C:\Program Files\Microsoft\Web Platform Installer\WebpiCmd.exe.config
+----C:\Program Files\Microsoft\Web Platform Installer\WebPlatformInstaller.exe
+----C:\Program Files\Microsoft\Web Platform Installer\WebPlatformInstaller.exe.config
+----C:\Program Files\Microsoft Games\Chess\Chess.exe
+------C:\Program Files\Microsoft Games\Chess\en-US\Chess.exe.mui
+----C:\Program Files\Microsoft Games\FreeCell\FreeCell.exe
+------C:\Program Files\Microsoft Games\FreeCell\en-US\FreeCell.exe.mui
+----C:\Program Files\Microsoft Games\Hearts\Hearts.exe
+------C:\Program Files\Microsoft Games\Hearts\en-US\Hearts.exe.mui
+----C:\Program Files\Microsoft Games\Mahjong\Mahjong.exe
+------C:\Program Files\Microsoft Games\Mahjong\en-US\Mahjong.exe.mui
+----C:\Program Files\Microsoft Games\Minesweeper\MineSweeper.exe
+------C:\Program Files\Microsoft Games\Minesweeper\en-US\Minesweeper.exe.mui
+------C:\Program Files\Microsoft Games\Multiplayer\Backgammon\bckgzm.exe
+--------C:\Program Files\Microsoft Games\Multiplayer\Backgammon\en-US\bckgzm.exe.mui
+------C:\Program Files\Microsoft Games\Multiplayer\Checkers\chkrzm.exe
+--------C:\Program Files\Microsoft Games\Multiplayer\Checkers\en-US\chkrzm.exe.mui
+------C:\Program Files\Microsoft Games\Multiplayer\Spades\shvlzm.exe
+--------C:\Program Files\Microsoft Games\Multiplayer\Spades\en-US\shvlzm.exe.mui
+----C:\Program Files\Microsoft Games\Purble Place\PurblePlace.exe
+------C:\Program Files\Microsoft Games\Purble Place\en-US\PurblePlace.exe.mui
+----C:\Program Files\Microsoft Games\Solitaire\Solitaire.exe
+------C:\Program Files\Microsoft Games\Solitaire\en-US\Solitaire.exe.mui
+----C:\Program Files\Microsoft Games\SpiderSolitaire\SpiderSolitaire.exe
+------C:\Program Files\Microsoft Games\SpiderSolitaire\en-US\SpiderSolitaire.exe.mui
+----C:\Program Files\Microsoft Office\Office14\BCSSync.exe
+----C:\Program Files\Microsoft Office\Office14\excel.exe.manifest
+----C:\Program Files\Microsoft Office\Office14\excelcnv.exe
+----C:\Program Files\Microsoft Office\Office14\Graph.exe.manifest
+----C:\Program Files\Microsoft Office\Office14\IEContentService.exe
+----C:\Program Files\Microsoft Office\Office14\misc.exe
+----C:\Program Files\Microsoft Office\Office14\msaccess.exe.manifest
+----C:\Program Files\Microsoft Office\Office14\powerpnt.exe.manifest
+----C:\Program Files\Microsoft Office\Office14\Wordconv.exe
+--------C:\Program Files\Microsoft SQL Server\110\LocalDB\Binn\sqlservr.exe
+------C:\Program Files\Microsoft SQL Server\110\Shared\SqlDumper.exe
+--------C:\Program Files\Microsoft SQL Server\110\Tools\Binn\bcp.exe
+--------C:\Program Files\Microsoft SQL Server\110\Tools\Binn\SqlLocalDB.exe
+------C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe
+------C:\Program Files\Microsoft Visual Studio 11.0\Common7\IDE\vsdiag_regwcf.exe
+------C:\Program Files\Microsoft Visual Studio 11.0\Common7\IDE\vsdiag_regwcf.exe.config
+--------C:\Program Files\Microsoft Visual Studio 11.0\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+--C:\Program Files\nodejs\node.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxBalloonCtrl.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxExtPackHelperApp.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxManage.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxNetDHCP.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxSDL.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxTestOGL.exe
+----C:\Program Files\Oracle\VirtualBox\VBoxWebSrv.exe
+----C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+--C:\Program Files\Paint.NET\PaintDotNet.exe
+--C:\Program Files\Paint.NET\PaintDotNet.exe.config
+--C:\Program Files\Paint.NET\PdnRepair.exe
+--C:\Program Files\Paint.NET\PdnRepair.exe.config
+--C:\Program Files\Paint.NET\SetupNgen.exe
+--C:\Program Files\Paint.NET\SetupNgen.exe.config
+--C:\Program Files\Paint.NET\UpdateMonitor.exe
+--C:\Program Files\Paint.NET\UpdateMonitor.exe.config
+--C:\Program Files\Paint.NET\WiaProxy32.exe
+--C:\Program Files\Paint.NET\WiaProxy32.exe.config
+--C:\Program Files\Serviio\uninstall.exe
+----C:\Program Files\Serviio\bin\ServiioConsole.exe
+----C:\Program Files\Serviio\bin\ServiioConsole.exe.vmoptions
+----C:\Program Files\Serviio\bin\ServiioService.exe
+----C:\Program Files\Serviio\bin\ServiioService.exe.vmoptions
+----C:\Program Files\Serviio\lib\dcraw.exe
+----C:\Program Files\Serviio\lib\ffmpeg.exe
+----C:\Program Files\Softland\doPDF 7\dopdf.exe
+----C:\Program Files\Softland\doPDF 7\unins000.exe
+------C:\Program Files\Softland\doPDF 7\AMD64\dopdfin7.exe
+------C:\Program Files\Softland\doPDF 7\i386\dopdfin7.exe
+----C:\Program Files\STMicroelectronics\stdcfltn\dpinst.exe
+----C:\Program Files\TortoiseSVN\bin\ConnectVPN.exe
+----C:\Program Files\TortoiseSVN\bin\SubWCRev.exe
+----C:\Program Files\TortoiseSVN\bin\SubWCRevCOM.exe
+----C:\Program Files\TortoiseSVN\bin\TortoiseBlame.exe
+----C:\Program Files\TortoiseSVN\bin\TortoiseIDiff.exe
+----C:\Program Files\TortoiseSVN\bin\TortoiseMerge.exe
+----C:\Program Files\TortoiseSVN\bin\TortoisePlink.exe
+----C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe
+----C:\Program Files\TortoiseSVN\bin\TortoiseUDiff.exe
+----C:\Program Files\TortoiseSVN\bin\TSVNCache.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\AdminUtils.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\Bluetooth Headset Helper.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BtITunesPlugIn.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\btsendto_explorer.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BTStackServer.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BTTray.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\btwdins.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BtwHfConfig.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BtwHtmlPrint.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BTWUIExt.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BTWUIExt.exe.config
+----C:\Program Files\WIDCOMM\Bluetooth Software\BTWUIHid.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BtwVdpDefaultSink.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\BtwVRUI.exe
+----C:\Program Files\WIDCOMM\Bluetooth Software\SMSEditor.exe
+------C:\Program Files\WIDCOMM\Bluetooth Software\BtwLyncIntf\BtwLyncIntf.exe
+--C:\Program Files\Windows Defender\MpCmdRun.exe
+--C:\Program Files\Windows Defender\MSASCui.exe
+--C:\Program Files\Windows Journal\Journal.exe
+--C:\Program Files\Windows Journal\PDIALOG.exe
+----C:\Program Files\Windows Journal\en-US\Journal.exe.mui
+----C:\Program Files\Windows Journal\en-US\PDIALOG.exe.mui
+--C:\Program Files\Windows Mail\wab.exe
+--C:\Program Files\Windows Mail\wabmig.exe
+--C:\Program Files\Windows Mail\WinMail.exe
+----C:\Program Files\Windows Mail\en-US\WinMail.exe.mui
+--C:\Program Files\Windows Media Player\setup_wm.exe
+--C:\Program Files\Windows Media Player\wmlaunch.exe
+--C:\Program Files\Windows Media Player\wmpconfig.exe
+--C:\Program Files\Windows Media Player\WMPDMC.exe
+--C:\Program Files\Windows Media Player\wmpenc.exe
+--C:\Program Files\Windows Media Player\wmplayer.exe
+--C:\Program Files\Windows Media Player\wmpnetwk.exe
+--C:\Program Files\Windows Media Player\wmpnscfg.exe
+--C:\Program Files\Windows Media Player\wmprph.exe
+--C:\Program Files\Windows Media Player\wmpshare.exe
+--C:\Program Files\Windows Media Player\WMPSideShowGadget.exe
+----C:\Program Files\Windows Media Player\en-US\setup_wm.exe.mui
+----C:\Program Files\Windows Media Player\en-US\wmlaunch.exe.mui
+----C:\Program Files\Windows Media Player\en-US\WMPDMC.exe.mui
+----C:\Program Files\Windows Media Player\en-US\wmplayer.exe.mui
+----C:\Program Files\Windows Media Player\en-US\wmpnetwk.exe.mui
+----C:\Program Files\Windows Media Player\en-US\wmpnscfg.exe.mui
+----C:\Program Files\Windows Media Player\en-US\WMPSideShowGadget.exe.mui
+----C:\Program Files\Windows NT\Accessories\wordpad.exe
+------C:\Program Files\Windows NT\Accessories\en-US\wordpad.exe.mui
+--C:\Program Files\Windows Photo Viewer\ImagingDevices.exe
+----C:\Program Files\Windows Photo Viewer\en-US\ImagingDevices.exe.mui
+--C:\Program Files\Windows Sidebar\sidebar.exe
+----C:\Program Files\Windows Sidebar\en-US\Sidebar.exe.mui
