@@ -1,6 +1,6 @@
 1. A text file students.txt holds information about students and their courses in the following format:
 
-  Kiril  | Ivanov   | C#
+  Kiril  | Ivanov   | C#  
   Stefka | Nikolova | SQL
   Stela  | Mineva   | Java
   Milena | Petrova  | C#
