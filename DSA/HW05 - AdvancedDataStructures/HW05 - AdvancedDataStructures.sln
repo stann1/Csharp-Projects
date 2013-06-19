@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ImplementPriorityQueue", "01.ImplementPriorityQueue\01.ImplementPriorityQueue.csproj", "{66F42C83-E70E-4CA5-A8E6-9741CB176A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CollectionOfProducts", "02.CollectionOfProducts\02.CollectionOfProducts.csproj", "{D0DBDA5A-2F36-4F17-ACFF-3F0C5A787459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ImplementTrie", "03.ImplementTrie\03.ImplementTrie.csproj", "{07854AE9-3868-4AB4-BF2C-E49A39DD2F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F42C83-E70E-4CA5-A8E6-9741CB176A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F42C83-E70E-4CA5-A8E6-9741CB176A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F42C83-E70E-4CA5-A8E6-9741CB176A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F42C83-E70E-4CA5-A8E6-9741CB176A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DBDA5A-2F36-4F17-ACFF-3F0C5A787459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DBDA5A-2F36-4F17-ACFF-3F0C5A787459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DBDA5A-2F36-4F17-ACFF-3F0C5A787459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DBDA5A-2F36-4F17-ACFF-3F0C5A787459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07854AE9-3868-4AB4-BF2C-E49A39DD2F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07854AE9-3868-4AB4-BF2C-E49A39DD2F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07854AE9-3868-4AB4-BF2C-E49A39DD2F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07854AE9-3868-4AB4-BF2C-E49A39DD2F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
