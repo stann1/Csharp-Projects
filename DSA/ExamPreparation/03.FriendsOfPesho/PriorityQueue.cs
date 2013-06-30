@@ -3,19 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Wintellect.PowerCollections;
 
-namespace _01.ImplementPriorityQueue
+//This implementation is slower, if it is used instead of OtherPriorityQueue the points in bgcoder are 70/100
+namespace FriendsOfPesho
 {
-    public class CustomPriorityQueue<T> : IEnumerable<T> where T : IComparable<T>
+    public class PriorityQueue<T> : IEnumerable<T> where T : IComparable<T>
     {
         private List<T> heap;
         private int elementCount;
 
-        public CustomPriorityQueue()
+        public PriorityQueue()
         {
             this.heap = new List<T>();
-            this.elementCount = 0;            
+            this.elementCount = 0;
         }
 
         public int Count
@@ -47,7 +47,7 @@ namespace _01.ImplementPriorityQueue
             this.heap[0] = this.heap[this.elementCount - 1];
             this.heap.RemoveAt(this.elementCount - 1);
             this.elementCount--;
-            this.SiftDown();            
+            this.SiftDown();
             return elementToReturn;
         }
 
@@ -60,7 +60,7 @@ namespace _01.ImplementPriorityQueue
         private void SiftUp()
         {
             int currentIndex = this.elementCount;
-            int parentIndex = (currentIndex - 1) / 2;          //Check "binary heap" in wikipedia for detailed explanation
+            int parentIndex = (currentIndex - 1) / 2; //Check "binary heap" in wikipedia for detailed explanation
 
             this.RearrangeHeapBottomUp(currentIndex, parentIndex);
         }
@@ -89,8 +89,8 @@ namespace _01.ImplementPriorityQueue
             int indexOfLargerChild = 0;
 
             if (this.heap[leftChildIndex].CompareTo(this.heap[rightChildIndex]) == 1)
-            {                
-                indexOfLargerChild = leftChildIndex; 
+            {
+                indexOfLargerChild = leftChildIndex;
             }
             else
             {
@@ -107,7 +107,7 @@ namespace _01.ImplementPriorityQueue
 
             RearrangeHeapFromTop(currentIndex, leftChildIndex, rightChildIndex);
         }
-  
+
         private void RearrangeHeapBottomUp(int currentIndex, int parentIndex)
         {
             if (currentIndex <= 0)
@@ -124,12 +124,12 @@ namespace _01.ImplementPriorityQueue
             this.heap[currentIndex] = tempEl;
 
             currentIndex = parentIndex;
-            parentIndex = (currentIndex - 1) / 2;  
+            parentIndex = (currentIndex - 1) / 2;
 
             RearrangeHeapBottomUp(currentIndex, parentIndex);
         }
 
-        
+
 
         //Interface methods
         public IEnumerator<T> GetEnumerator()

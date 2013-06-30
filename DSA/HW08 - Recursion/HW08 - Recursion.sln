@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.LabyrinthLargestEmptyAre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.LabyrinthAllPassableAreas", "10.LabyrinthAllPassableAreas\10.LabyrinthAllPassableAreas.csproj", "{F13A0866-7515-429B-92D3-6CD19F209C9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.PermutationsWithRep", "11.PermutationsWithRep\11.PermutationsWithRep.csproj", "{B5EB1BF2-A385-4F9C-84A0-681993240CBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{F13A0866-7515-429B-92D3-6CD19F209C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F13A0866-7515-429B-92D3-6CD19F209C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F13A0866-7515-429B-92D3-6CD19F209C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EB1BF2-A385-4F9C-84A0-681993240CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EB1BF2-A385-4F9C-84A0-681993240CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EB1BF2-A385-4F9C-84A0-681993240CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EB1BF2-A385-4F9C-84A0-681993240CBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
