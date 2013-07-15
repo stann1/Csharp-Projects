@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 
 namespace _04.ColoredBalls
 {
     class Program
     {
-        static int counter = 0;
+        static BigInteger counter = 0;
 
         //The possible arrangement of selected balls (can be of the same color), where the order does not matter - permutations with repetition
         static void Main(string[] args)
@@ -20,11 +21,51 @@ namespace _04.ColoredBalls
                 balls[i] = input[i];
             }
 
-            Array.Sort(balls);
-            GeneratePermutationsWithSwaps(balls, 0, balls.Length);
+            //Array.Sort(balls);
+            //GeneratePermutationsWithSwaps(balls, 0, balls.Length);
+            counter = CountSequencesOverflow(balls);
             Console.WriteLine(counter);            
         }
 
+        /// <summary>
+        /// Uses direct statistical formula to calculate the total permutations, can be slow for large, diverse collection
+        /// </summary>
+        private static BigInteger CountSequencesOverflow(char[] balls)
+        {
+            // We calculate directly the formula n! / (c1! * c2! * ... ck!)
+            // where c1, c2, .. ck are the number of the balls fo each color
+
+            int n = balls.Length;
+            BigInteger result = Factorial(n);
+
+            int[] ballCounts = new int['Z' + 1];
+            foreach (var ball in balls)
+            {
+                ballCounts[ball]++;
+            }
+            for (int i = 'A'; i <= 'Z'; i++)
+            {
+                int ballsOfCertainColor = ballCounts[i];
+                BigInteger factorial = Factorial(ballsOfCertainColor);
+                result /= factorial;
+            }
+
+            return result;
+        }
+
+        private static BigInteger Factorial(int n)
+        {
+            BigInteger result = 1;
+            for (int i = 2; i <= n; i++)
+            {
+                result *= i;
+            }
+            return result;
+        }
+
+        /// <summary>
+        /// Generates all possible permutations, however, it is is somehow slow
+        /// </summary>
         private static void GeneratePermutationsWithSwaps(char[] balls, int start, int size)
         {
             counter++;

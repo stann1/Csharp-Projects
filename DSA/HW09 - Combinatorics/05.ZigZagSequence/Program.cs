@@ -27,10 +27,11 @@ namespace _05.ZigZagSequence
             sequence = new int[k];
             used = new bool[n];
 
-            GenerateVariationsNoRep(0);
+            //GenerateVariationsNoRep(0);
             //Console.WriteLine(counter);
             Console.WriteLine(zigZagCount);
         }
+        
 
         private static void GenerateVariationsNoRep(int index)
         {
