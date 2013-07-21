@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountRows", "CountRows\01.CountRows.csproj", "{E31CF47D-A47B-41EA-B22D-E5AD45A1EA6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountRows", "01.CountRows\01.CountRows.csproj", "{E31CF47D-A47B-41EA-B22D-E5AD45A1EA6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RetrieveCategoriesData", "02.RetrieveCategoriesData\02.RetrieveCategoriesData.csproj", "{8EAC410A-D30D-4EBF-8197-1FA96DF6C7AD}"
 EndProject
