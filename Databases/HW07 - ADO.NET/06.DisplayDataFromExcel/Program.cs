@@ -20,7 +20,7 @@ namespace _06.DisplayDataFromExcel
 
             using (dbCon)
             {
-                string selectSql = @"SELECT * FROM [Sheet1$]";
+                string selectSql = @"SELECT * FROM [Sheet2$]";
                 using (OleDbDataAdapter adapter = new OleDbDataAdapter(selectSql, dbCon))
                 {
                     adapter.FillSchema(table, SchemaType.Source);
@@ -28,7 +28,7 @@ namespace _06.DisplayDataFromExcel
                 }            
             }
 
-            Console.WriteLine("Name, score:");
+           // Console.WriteLine("Name, score:");
             foreach (DataRow row in table.Rows)
             {
                 foreach (var item in row.ItemArray)

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="studentsStyle.xslt"?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Pesho</name>
+    <sex>male</sex>
+    <birthdate>01.12.1987</birthdate>
+    <phone>0876131314</phone>
+    <email>peshokrupkata@abv.bg</email>
+    <course>Databases</course>
+    <specialty>IT</specialty>
+    <faculty-number>800654</faculty-number>
+    <exams>
+      <exam>
+        <name>C# part2</name>
+        <tutor>Niki</tutor>
+        <score>65</score>
+      </exam>
+      <exam>
+        <name>ORM</name>
+        <tutor>Nakov</tutor>
+        <score>55</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Gosho</name>
+    <sex>male</sex>
+    <birthdate>21.11.1989</birthdate>
+    <phone>08761222222</phone>
+    <email>goshkooo@abv.bg</email>
+    <course>ASP.NET</course>
+    <specialty>IT</specialty>
+    <faculty-number>800655</faculty-number>
+    <exams>
+      <exam>
+        <name>OOP</name>
+        <tutor>Niki</tutor>
+        <score>25</score>
+      </exam>
+      <exam>
+        <name>JS Apps</name>
+        <tutor>Nakov</tutor>
+        <score>85</score>
+      </exam>
+    </exams>
+  </student>
+</students>
+
+

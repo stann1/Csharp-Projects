@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{961E5CFA-22F9-4126-80A8-63E7BF133F99}"
+	ProjectSection(SolutionItems) = preProject
+		studentsStyle.xslt = studentsStyle.xslt
+		studentsxml.xml = studentsxml.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
