@@ -7,6 +7,8 @@ using System.Text;
 using System.Threading.Tasks;
 using MusicStore.Data;
 
+// Before running anything - right click solution --> "Manage Nuget Packages for this solution" --> "Restore"
+
 namespace MusicStore.Client
 {
     class Program
