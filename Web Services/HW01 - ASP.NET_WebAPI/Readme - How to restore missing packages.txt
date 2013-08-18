@@ -1,0 +1,18 @@
+
+[How To] Remove And Restore Nuget Packages - Reduce Solution Size On Disk
+
+Препоръчвам първо да си копирате финалната версия на solution-а и тогава да пробвате указанията, за да не стане фал.
+
+1. Enabling package restore during build
+
+Tools -> Options -> Package Manager -> General
+
+Избирате Allow NuGet to download missing packages during build
+
+2. Десен бутон върху solution-a и Enable NuGet Package Restore
+
+3. В папка packages изтривате всичко без Microsoft.BCL папките (ако имате такива) и repositories.config файла (не съм сигурен дали е нужен)
+
+Restore: Отваряте solution-a, десен бутон вурху solution-а и Manage NuGet Packages for this solution... -> има бутон Restore, който ще инсталира всички нужни NuGet Packages
+
+http://docs.nuget.org/docs/workflows/using-nuget-without-committing-packages
