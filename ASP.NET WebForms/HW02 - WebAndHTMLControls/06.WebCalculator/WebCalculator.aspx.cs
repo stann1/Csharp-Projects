@@ -11,19 +11,18 @@ namespace _06.WebCalculator
     {       
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!IsPostBack)
-            {
-                this.ViewState.Add("commands", new List<string>());
-            }
+            
         }
         
         protected void ButtonEquals_Click(object sender, EventArgs e)
         {
             IButtonControl clickedButton = (IButtonControl)sender;
-            List<string> commands = (List<string>)this.ViewState["commands"];
-            int firstNum = int.Parse(commands[0]);
-            int secondNum = commands.Count > 2 ? int.Parse(commands[2]) : 0;
-            string operation = commands[1];
+                        
+            int firstNum = (int)this.ViewState["firstNum"];
+            string operation = (string)this.ViewState["command"];
+            string second = this.InputOutput.Text;
+            int secondNum = second != string.Empty ? int.Parse(second) : 0;
+           
             double? output = null;
 
             switch (operation)
@@ -52,20 +51,53 @@ namespace _06.WebCalculator
             }
 
             //reset the viewstate
-            this.ViewState["commands"] = new List<string>();
+            this.ViewState.Remove("firstNum");
+            this.ViewState.Remove("command");
+        }
+
+        protected void ButtonOperator_Click(object sender, EventArgs e)
+        {
+            IButtonControl clickedButton = (IButtonControl)sender;
+            
+            try
+            {
+                int inputNum = int.Parse(this.InputOutput.Text);
+                this.ViewState.Add("firstNum", inputNum);
+
+            }
+            catch (Exception ex)
+            {
+                this.InputOutput.Text = "Invalid number!";
+            }
+
+            string command = clickedButton.Text;
+            this.ViewState.Add("command", command);
+            this.InputOutput.Text = "";
+        }
+
+        protected void OnNumberAction(object sender, CommandEventArgs e)
+        {
+            IButtonControl clickedButton = (IButtonControl)sender;
+            this.InputOutput.Text = this.InputOutput.Text + clickedButton.Text;   
         }
 
         protected void OnCommandAction(object sender, CommandEventArgs e)
         {
             IButtonControl clickedButton = (IButtonControl)sender;
-            ((List<string>)this.ViewState["commands"]).Add(clickedButton.Text);
-            this.InputOutput.Text = clickedButton.Text;
-           
+            this.LabelCommandString.Text = clickedButton.Text;           
         }
 
         protected void ButtonClear_Click(object sender, EventArgs e)
         {
-            this.ViewState["commands"] = new List<string>();
+            if (this.ViewState["firstNum"] != null)
+            {
+                this.ViewState.Remove("firstNum");
+            }
+            if (this.ViewState["command"] != null)
+            {
+                this.ViewState.Remove("command");
+            }
+            
             this.InputOutput.Text = "";
         }
     }

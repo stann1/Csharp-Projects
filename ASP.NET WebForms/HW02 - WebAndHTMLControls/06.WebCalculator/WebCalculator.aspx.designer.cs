@@ -31,6 +31,15 @@ namespace _06.WebCalculator {
         protected global::System.Web.UI.WebControls.TextBox InputOutput;
         
         /// <summary>
+        /// LabelCommandString control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelCommandString;
+        
+        /// <summary>
         /// Button1 control.
         /// </summary>
         /// <remarks>
