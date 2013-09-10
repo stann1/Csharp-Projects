@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="simple-books.xml" />
     <Content Include="Web.config" />
     <Content Include="XmlReaderForm.aspx" />
   </ItemGroup>
